@@ -2,7 +2,7 @@
 
 Proyecto de Visión por Computadora y Deep Learning que implementa una Red Neuronal Convolucional (CNN) para clasificar prendas de vestir y calzado a partir del dataset **Fashion-MNIST**.
 
-## 📌 Contenido del Proyecto
+## Contenido del Proyecto
 - `notebooks/fashion_mnist_cnn.ipynb`: Notebook de experimentación en Google Colab con análisis exploratorio, preprocesamiento, data augmentation, entrenamiento con callbacks, métricas de evaluación, matriz de confusión y visualización de predicciones.
 - `models/`: Contiene el modelo serializado (`modelo_fashion_cnn.keras`) y el índice de clases (`class_indices.json`).
 - `app.py`: Aplicación web interactiva desarrollada con Streamlit para realizar inferencia con nuevas imágenes.
